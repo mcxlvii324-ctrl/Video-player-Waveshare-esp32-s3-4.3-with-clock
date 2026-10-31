@@ -41,13 +41,13 @@ The software utilizes high-speed 4-bit native bus addressing (SD_MMC).
 1. Format your MicroSD Card as FAT32.
 2. Create a folder named exactly avi in the root directory.
 3. Drop your converted .avi videos inside that folder.
-text
+
 📦 MicroSD Root
  ┗ 📂 avi
     ┣ 📜 Video1.avi
     ┣ 📜 Video2.avi
     ┗ 📜 Movie.avi
-Χρησιμοποιήστε τον κώδικα με προσοχή.
+
 
 How It Works (Application Workflow)
 
