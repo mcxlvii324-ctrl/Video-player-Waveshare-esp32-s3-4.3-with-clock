@@ -26,10 +26,10 @@ typedef struct {
 #include <SD_MMC.h>
 #include "FreeSansBold12pt7b.h"
 
-const char* ssid = "Huawei_wJZD6v";
-const char* password = "qrdyLD7U";
+const char* ssid = "your SSID name here";
+const char* password = "your wifi password here";
 const char* ntpServer = "pool.ntp.org";
-const char* time_zone = "EET-2EEST,M3.5.0/3,M10.5.0/4";
+const char* time_zone = "EET-2EEST,M3.5.0/3,M10.5.0/4"; //here put your timezome for your city,country from here :"https://gist.github.com/tivaliy/a5ef9c7ccb4d57bdc248f0855c5eb1ff"
 
 size_t output_buf_size;
 uint16_t *output_buf = nullptr;
