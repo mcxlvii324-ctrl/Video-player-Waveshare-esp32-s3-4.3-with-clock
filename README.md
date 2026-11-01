@@ -1,6 +1,6 @@
 # Video-player-Waveshare-esp32-s3-4.3-with-clock
 How to play avi files and choose them,or autoplay at 800x480 touch screen.It also plays at waveshare esp32s3 7' board.
-
+https://www.youtube.com/watch?v=n14cAWKRzxA
 High-Performance Bare-Metal AVI Video Player for Waveshare ESP32-S3 (4.3" & 7")
 
 A highly optimized, bare-metal AVI media player featuring an integrated Wi-Fi synced clock for the Waveshare ESP32-S3-Touch-LCD-4.3 and Waveshare ESP32-S3-Touch-LCD-7 development boards.
